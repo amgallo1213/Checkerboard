@@ -1,0 +1,79 @@
+.h1_board_1  {
+    display: flex;
+    justify-content: center;
+    color: #4ECDC4;
+    background-color: #FF6B6B;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.h1_board_2 {
+    display: flex;
+    justify-content: center;
+    color: #1A535C;
+    background-color: #FFE66D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.h1_board_3 {
+    display: flex;
+    justify-content: center;
+    color: #FF6B6B;
+    background-color: #FFE66D;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.main   {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+.row_odd  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.row_even  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.column_odd  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.column_even   {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.odds_board_1  {
+    height: 50px;
+    width: 50px;
+    background-color: #4ECDC4;
+}
+.evens_board_1 {
+    height: 50px;
+    width: 50px;
+    background-color: #FF6B6B;
+}
+.odds_board_2  {
+    height: 50px;
+    width: 50px;
+    background-color: #1A535C;
+}
+.evens_board_2 {
+    height: 50px;
+    width: 50px;
+    background-color: #FFE66D;
+}
+.odds_board_3  {
+    height: 50px;
+    width: 50px;
+    background-color: #FF6B6B;
+}
+.evens_board_3 {
+    height: 50px;
+    width: 50px;
+    background-color: #FFE66D;
+}
